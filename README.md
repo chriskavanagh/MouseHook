@@ -1,2 +1,0 @@
-# MouseHook
-Created with CodeSandbox
