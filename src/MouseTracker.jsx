@@ -12,3 +12,13 @@ const MouseTracker = () => {
 }; // end MouseTracker
 
 export default MouseTracker;
+
+/* const MouseTracker = () => {
+  const coords = useCurrentMouseLocation();
+
+  return (
+    <div>
+      x: {coords.x}, y:{coords.y}
+    </div>
+  );
+}; // end MouseTracker */
